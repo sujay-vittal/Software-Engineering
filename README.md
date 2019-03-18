@@ -4,13 +4,10 @@
 1. Design Java classes that models the UML sequence diagram. Represent basic symbols and components of sequence diagram in Java based on the Sequence Diagram syntax standard.
 	 - All the required standard symbols and components are in https://www.lucidchart.com/pages/uml-sequence-diagram
 
-2. Generate Source code from the input file     (CSV Format)
-	 - Use the tools designed by the Undergrad to parse the input file and generate AST Model. From AST model generate Java source code for the sequence diagram given by the user.
-
-3. Generate Sequence diagram objects from Java source code
+2. Generate Sequence diagram objects from Java source code
 	 - Generate AST model from the input Java file(s) and create objects that represent the UML Sequence Diagram.
 
-4. Compare UML Sequence Diagrams
+3. Compare UML Sequence Diagrams
 	 - Compare UML Sequence Diagram objects and generate two outputs from the comparison:
 
 		1. A boolean variable indicating whether the two diagrams compared are identical or not.
