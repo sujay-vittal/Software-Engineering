@@ -7,13 +7,6 @@
 2. Generate Sequence diagram objects from Java source code
 	 - Generate AST model from the input Java file(s) and create objects that represent the UML Sequence Diagram.
 
-3. Compare UML Sequence Diagrams
-	 - Compare UML Sequence Diagram objects and generate two outputs from the comparison:
-
-		1. A boolean variable indicating whether the two diagrams compared are identical or not.
-
-		2. If the two sets of diagrams do not match, then the non-matching objects from each set shall be identified and detailed differences are shown in the output.
-
 
 ## Non-Functional Requirements:
 
