@@ -32,8 +32,3 @@
 	 - https://google.github.io/styleguide/javaguide.html
 5. Compatibility
 	 - PC/Server platforms (i.e. Java SE). Hotspot JVM is the target JVM.
-## UML Use Case Diagram
-![UML-Use-Case-Diagram](umltranslator/doc/images/UML-use-case-diagram.png "UML-Use-Case-Diagram")
-
-## UML Class Diagram
-![UML-Class-Diagram](umltranslator/doc/images/UML-class-diagram.png "UML-Class-Diagram")
